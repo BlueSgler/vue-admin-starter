@@ -1,4 +1,4 @@
-# Vue Starter
+# Vue Admin Starter
 
 这是一个基于Vue的空项目模板，用于快速启动Vue项目的开发。
 
@@ -23,7 +23,7 @@
 1. 克隆项目到本地：
 
    ```bash
-   git clone https://github.com/BlueSgler/vue-starter.git
+   git clone https://github.com/BlueSgler/vue-admin-starter.git
    ```
 
 2. 进入项目目录：
@@ -132,7 +132,7 @@ Before getting started, make sure your development environment has the following
 1. Clone the project to your local machine:
 
    ```bash
-   git clone https://github.com/BlueSgler/vue-starter.git
+   git clone https://github.com/BlueSgler/vue-admin-starter.git
    ```
 
 2. Navigate to the project directory:
